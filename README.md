@@ -17,13 +17,12 @@
   
   - Vue.js ( 3 )
     - Pinia
-    - Vue Router
-    - Composition API & Option API
       
   - React.js
     
   - Web3.js
   - Ethers.js
+  - Jest
   - Cypress
   - Storybook
 
