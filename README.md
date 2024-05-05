@@ -6,27 +6,6 @@
 
 
 <p align="left">
-
-## ⚡ My Knowledge
-  - HTML
-  - CSS
-    - Tailwind
-    - SCSS
-  
-  - Javascript/Typescript
-  
-  - Vue.js
-    - Pinia
-      
-  - React.js
-    
-  - Web3.js
-  - Ethers.js
-  - Jest
-  - Cypress
-  - Storybook
-
-  - Git
          
 <h3 align="left">Contact:</h3>
 <p align="left">
